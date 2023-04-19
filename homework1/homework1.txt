@@ -1,0 +1,18 @@
+1. https
+2.
+2.1. Header в виде строки поиска : <div class="dzen-search-arrow-common">
+2.2. Отступ слева : <section class="desktop-layout__leftColumn-25">
+2.3. Зона виджетов : <div class="left-sidebar-container__leftSidebar-3Z left-sidebar-container__isVisible-1x left-sidebar-container__widthCompactSmall-22 left-sidebar-container__morda-1h">;
+2.4. Зона контента : <section class="desktop-layout__content-1S" aria-label="Контент">
+2.5. Правый отступ : <div class="desktop-layout__stickyWrapper-Ak desktop-layout__withAdCampaign-3Z"> 
+3. Список изменений:
+1. Смена имени с <title>Дзен</title> на <title>Ляляля</title> 
+2. Смена поисковой строки <div class="dzen-search-arrow-common__placeholder">Более интересный поиск</div>
+3. Изменение стиля. пермена цвета окаймления строки поиска <button class="dzen-search-arrow-common__button" type="submit">Найти</button>
+4. Такие же изменения с самой кнопкой поиска.
+5. Удаление логотипа "Дзен" : <span aria-label="Логотип Дзен"></span>
+6. Переименование "Видео" в "Не ролики" : <div class="dzen-top-controls-desktop__buttonText-3_">Не ролики</div>
+7. Изменение в стилях общего фона цвет на жёлтый
+8. Курс доллара изменён на 1 к 1 : <span class="currency-rates__itemValue-36">$&nbsp;<!-- -->1</span>
+9. Измение текста в блоке погоды <div class="geoblock-weather__currentWeather-1P">Хорошая<!-- --><!-- --></div>
+10. Замена текста и картинки первой новости.
